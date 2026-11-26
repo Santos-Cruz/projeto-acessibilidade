@@ -1,0 +1,270 @@
+{
+  "dataGeracao": "2026-11-26T00:34:48.874Z",
+  "totalViolacoes": 2,
+  "totalElementosAfetados": 35,
+  "violacoes": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/color-contrast?application=playwright",
+      "elementosAfetados": [
+        {
+          "elemento": "<a href=\"#\" onclick=\"deleteItem('027b5ff0-2929-a795-3422-c42077f567bf')\">Delete</a>",
+          "localizacao": [
+            ".success:nth-child(1) > td:nth-child(4) > a[href=\"#\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 4.13 (foreground color: #0275d8, background color: #f2f2f2, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<a href=\"#\" onclick=\"deleteItem('00c1ad23-f8fe-75a9-76f2-c4a4bb143527')\">Delete</a>",
+          "localizacao": [
+            ".success:nth-child(3) > td:nth-child(4) > a[href=\"#\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 4.13 (foreground color: #0275d8, background color: #f2f2f2, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<a href=\"#\" onclick=\"deleteItem('09118f2f-d9b6-2f81-d924-4c020359288a')\">Delete</a>",
+          "localizacao": [
+            ".success:nth-child(5) > td:nth-child(4) > a[href=\"#\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 4.13 (foreground color: #0275d8, background color: #f2f2f2, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<a href=\"#\" onclick=\"deleteItem('0d7ea4ab-560e-7f3f-9804-1893c66bd5f9')\">Delete</a>",
+          "localizacao": [
+            ".success:nth-child(7) > td:nth-child(4) > a[href=\"#\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 4.13 (foreground color: #0275d8, background color: #f2f2f2, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<a href=\"#\" onclick=\"deleteItem('0f2df9e3-0aa5-eb71-8a21-395bcffe47b4')\">Delete</a>",
+          "localizacao": [
+            ".success:nth-child(9) > td:nth-child(4) > a[href=\"#\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 4.13 (foreground color: #0275d8, background color: #f2f2f2, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<a href=\"#\" onclick=\"deleteItem('110d9230-3957-75a1-c923-a6edd34d1933')\">Delete</a>",
+          "localizacao": [
+            ".success:nth-child(11) > td:nth-child(4) > a[href=\"#\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 4.13 (foreground color: #0275d8, background color: #f2f2f2, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<a href=\"#\" onclick=\"deleteItem('16974b54-1cb3-47b5-e9ae-aa9b67e157a4')\">Delete</a>",
+          "localizacao": [
+            ".success:nth-child(13) > td:nth-child(4) > a[href=\"#\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 4.13 (foreground color: #0275d8, background color: #f2f2f2, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<a href=\"#\" onclick=\"deleteItem('124423cf-c53e-d7e5-2081-c84f92dcce6b')\">Delete</a>",
+          "localizacao": [
+            ".success:nth-child(15) > td:nth-child(4) > a[href=\"#\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 4.13 (foreground color: #0275d8, background color: #f2f2f2, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<a href=\"#\" onclick=\"deleteItem('0fbdbae1-9e7b-1a7d-d8d9-ef786a2a1772')\">Delete</a>",
+          "localizacao": [
+            ".success:nth-child(17) > td:nth-child(4) > a[href=\"#\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 4.13 (foreground color: #0275d8, background color: #f2f2f2, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<a href=\"#\" onclick=\"deleteItem('1c22e54d-e3e7-a397-910e-ca186db3cc9f')\">Delete</a>",
+          "localizacao": [
+            ".success:nth-child(19) > td:nth-child(4) > a[href=\"#\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 4.13 (foreground color: #0275d8, background color: #f2f2f2, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<a href=\"#\" onclick=\"deleteItem('2dcb8669-e24e-49fb-ef32-92a783baef8d')\">Delete</a>",
+          "localizacao": [
+            ".success:nth-child(21) > td:nth-child(4) > a[href=\"#\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 4.13 (foreground color: #0275d8, background color: #f2f2f2, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<button type=\"button\" class=\"btn btn-success\" data-toggle=\"modal\" data-target=\"#orderModal\">Place Order</button>",
+          "localizacao": [
+            ".btn-success"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.05 (foreground color: #ffffff, background color: #34a853, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+        }
+      ]
+    },
+    {
+      "id": "image-alt",
+      "impact": "critical",
+      "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+      "help": "Images must have alternative text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/image-alt?application=playwright",
+      "elementosAfetados": [
+        {
+          "elemento": "<img width=\"50\" height=\"50\" style=\"margin-right:10px\" src=\"blazemeter-favicon-512x512.png\">",
+          "localizacao": [
+            "#nava > img[width=\"50\"][height=\"50\"][src=\"blazemeter-favicon-512x512.png\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(1) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(2) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(3) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(4) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(5) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(6) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(7) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/macbook_air.jpg\">",
+          "localizacao": [
+            "img[src$=\"macbook_air.jpg\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(9) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(10) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(11) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(12) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(13) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(14) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(15) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(16) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(17) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(18) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(19) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(20) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"100\" height=\"100\" src=\"imgs/galaxy_s6.jpg\">",
+          "localizacao": [
+            ".success:nth-child(21) > td:nth-child(1) > img[src$=\"galaxy_s6.jpg\"][width=\"100\"][height=\"100\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"50\" height=\"50\" style=\"margin-right:10px\" src=\"blazemeter-favicon-512x512.png\">",
+          "localizacao": [
+            "h4 > img[width=\"50\"][height=\"50\"][src=\"blazemeter-favicon-512x512.png\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        }
+      ]
+    }
+  ]
+}

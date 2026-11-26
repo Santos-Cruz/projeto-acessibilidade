@@ -1,0 +1,174 @@
+{
+  "dataGeracao": "2026-11-26T00:34:46.556Z",
+  "totalViolacoes": 3,
+  "totalElementosAfetados": 20,
+  "violacoes": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/color-contrast?application=playwright",
+      "elementosAfetados": [
+        {
+          "elemento": "<h5>$790</h5>",
+          "localizacao": [
+            ".col-md-6.mb-4.col-lg-4:nth-child(1) > .card.h-100 > .card-block > h5"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.63 (foreground color: #868688, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<p id=\"article\" class=\"card-text\">Sony is so confident that the VAIO S is a superior ultraportable laptop \nthat the company proudly compares the notebook to Apple's 13-inch \nMacBook Pro. And in a lot of ways this notebook is better, thanks to a \nlighter weight. </p>",
+          "localizacao": [
+            ".col-md-6.mb-4.col-lg-4:nth-child(1) > .card.h-100 > .card-block > .card-text"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.63 (foreground color: #868688, background color: #ffffff, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<h5>$790</h5>",
+          "localizacao": [
+            ".col-md-6.mb-4.col-lg-4:nth-child(2) > .card.h-100 > .card-block > h5"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.63 (foreground color: #868688, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<p id=\"article\" class=\"card-text\">",
+          "localizacao": [
+            ".col-md-6.mb-4.col-lg-4:nth-child(2) > .card.h-100 > .card-block > .card-text"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.63 (foreground color: #868688, background color: #ffffff, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<h5>$700</h5>",
+          "localizacao": [
+            ".col-md-6.mb-4.col-lg-4:nth-child(3) > .card.h-100 > .card-block > h5"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.63 (foreground color: #868688, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<p id=\"article\" class=\"card-text\">1.6GHz dual-core Intel Core i5 (Turbo Boost up to 2.7GHz) with 3MB \nshared L3 cache\nConfigurable to 2.2GHz dual-core Intel Core i7 (Turbo \nBoost up to 3.2GHz) with 4MB shared L3 cache. </p>",
+          "localizacao": [
+            ".col-md-6.mb-4.col-lg-4:nth-child(3) > .card.h-100 > .card-block > .card-text"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.63 (foreground color: #868688, background color: #ffffff, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<h5>$700</h5>",
+          "localizacao": [
+            ".col-md-6.mb-4.col-lg-4:nth-child(4) > .card.h-100 > .card-block > h5"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.63 (foreground color: #868688, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<p id=\"article\" class=\"card-text\">",
+          "localizacao": [
+            ".col-md-6.mb-4.col-lg-4:nth-child(4) > .card.h-100 > .card-block > .card-text"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.63 (foreground color: #868688, background color: #ffffff, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<h5>$700</h5>",
+          "localizacao": [
+            ".col-md-6.mb-4.col-lg-4:nth-child(5) > .card.h-100 > .card-block > h5"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.63 (foreground color: #868688, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<p id=\"article\" class=\"card-text\">",
+          "localizacao": [
+            ".col-md-6.mb-4.col-lg-4:nth-child(5) > .card.h-100 > .card-block > .card-text"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.63 (foreground color: #868688, background color: #ffffff, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<h5>$1100</h5>",
+          "localizacao": [
+            ".col-md-6.mb-4.col-lg-4:nth-child(6) > .card.h-100 > .card-block > h5"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.63 (foreground color: #868688, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+        },
+        {
+          "elemento": "<p id=\"article\" class=\"card-text\">Apple has introduced three new versions of its MacBook Pro line, \nincluding a 13-inch and 15-inch model with the Touch Bar, a thin, \nmulti-touch strip display that sits above the MacBook Pro's keyboard.  </p>",
+          "localizacao": [
+            ".col-md-6.mb-4.col-lg-4:nth-child(6) > .card.h-100 > .card-block > .card-text"
+          ],
+          "problema": "Fix any of the following:\n  Element has insufficient color contrast of 3.63 (foreground color: #868688, background color: #ffffff, font size: 11.0pt (14.6667px), font weight: normal). Expected contrast ratio of 4.5:1"
+        }
+      ]
+    },
+    {
+      "id": "image-alt",
+      "impact": "critical",
+      "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+      "help": "Images must have alternative text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/image-alt?application=playwright",
+      "elementosAfetados": [
+        {
+          "elemento": "<img width=\"50\" height=\"50\" style=\"margin-right:10px\" src=\"blazemeter-favicon-512x512.png\">",
+          "localizacao": [
+            "#nava > img[width=\"50\"][height=\"50\"][src=\"blazemeter-favicon-512x512.png\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        },
+        {
+          "elemento": "<img width=\"50\" height=\"50\" style=\"margin-right:10px\" src=\"blazemeter-favicon-512x512.png\">",
+          "localizacao": [
+            "h4 > img[width=\"50\"][height=\"50\"][src=\"blazemeter-favicon-512x512.png\"]"
+          ],
+          "problema": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+        }
+      ]
+    },
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "description": "Ensure links have discernible text",
+      "help": "Links must have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/link-name?application=playwright",
+      "elementosAfetados": [
+        {
+          "elemento": "<a href=\"prod.html?idp_=8\"><img class=\"card-img-top img-fluid\" src=\"imgs/sony_vaio_5.jpg\" alt=\"\"></a>",
+          "localizacao": [
+            ".card.h-100 > a[href=\"prod.html?idp_=8\"]"
+          ],
+          "problema": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+        },
+        {
+          "elemento": "<a href=\"prod.html?idp_=9\"><img class=\"card-img-top img-fluid\" src=\"imgs/sony_vaio_5.jpg\" alt=\"\"></a>",
+          "localizacao": [
+            ".card.h-100 > a[href=\"prod.html?idp_=9\"]"
+          ],
+          "problema": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+        },
+        {
+          "elemento": "<a href=\"prod.html?idp_=11\"><img class=\"card-img-top img-fluid\" src=\"imgs/macbook_air.jpg\" alt=\"\"></a>",
+          "localizacao": [
+            ".card.h-100 > a[href=\"prod.html?idp_=11\"]"
+          ],
+          "problema": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+        },
+        {
+          "elemento": "<a href=\"prod.html?idp_=12\"><img class=\"card-img-top img-fluid\" src=\"imgs/dell.jpg\" alt=\"\"></a>",
+          "localizacao": [
+            ".card.h-100 > a[href=\"prod.html?idp_=12\"]"
+          ],
+          "problema": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+        },
+        {
+          "elemento": "<a href=\"prod.html?idp_=13\"><img class=\"card-img-top img-fluid\" src=\"imgs/dell.jpg\" alt=\"\"></a>",
+          "localizacao": [
+            ".card.h-100 > a[href=\"prod.html?idp_=13\"]"
+          ],
+          "problema": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+        },
+        {
+          "elemento": "<a href=\"prod.html?idp_=15\"><img class=\"card-img-top img-fluid\" src=\"imgs/macbook_air.jpg\" alt=\"\"></a>",
+          "localizacao": [
+            ".card.h-100 > a[href=\"prod.html?idp_=15\"]"
+          ],
+          "problema": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+        }
+      ]
+    }
+  ]
+}
